@@ -26,7 +26,7 @@
 }
 
 body{
-    background-color: #696969;
+    background-color: grey;
 }
 
 .chicharra{
@@ -89,4 +89,22 @@ body{
   color: black;
   padding: 30px;
 height: 30px;
+}
+
+.mvgnolias{
+    height: 26.4312rem;
+}
+
+.containerMV{
+    display: flex;
+    justify-content: center;
+}
+
+.carouselslide{
+    height: 300px;
+}
+
+.carousel-item{
+    height: 110px;
+    width: 2000px;
 }
