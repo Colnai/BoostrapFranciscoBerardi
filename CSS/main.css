@@ -1,3 +1,7 @@
+body{
+    background-color: grey;
+    min-height: 100vh;
+}
 .navbar-expand-lg .navbar-nav .nav-link{
     padding: 0.9375rem  ;
     border-radius: 0.625rem;
@@ -25,9 +29,6 @@
     min-height: calc(100vh - 72px - 150px );
 }
 
-body{
-    background-color: grey;
-}
 
 .chicharra{
     height: 37.5rem; 
@@ -87,24 +88,9 @@ body{
 
 .accordion{
   color: black;
-  padding: 30px;
-height: 30px;
 }
 
 .mvgnolias{
-    height: 26.4312rem;
+    width: 25rem;
 }
 
-.containerMV{
-    display: flex;
-    justify-content: center;
-}
-
-.carouselslide{
-    height: 300px;
-}
-
-.carousel-item{
-    height: 110px;
-    width: 2000px;
-}
